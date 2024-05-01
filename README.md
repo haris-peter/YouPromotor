@@ -1,12 +1,12 @@
-#YouPromotor
+# YouPromotor
 
-##Overview
+## Overview
 VidPromote is an innovative cloud-based solution designed to streamline and automate the content creation process for YouTube videos. Leveraging the power of
 Cloudflare for backend processing, React for frontend interface development, and
 Tailwind CSS for efficient styling, VidPromote aims to revolutionize content generation workflows.
 The system detects newly uploaded YouTube videos and seamlessly converts them
 into audio files while simultaneously generating accurate transcripts. Utilizing Cloudflare workers, VidPromote then creates compelling promotional materials such as
-thumbnails, descriptions, and draft posts tailored for various platforms. This automation significantly reduces manual effort, ensures consistency in content quality,
+thumbnails, descriptions, and draft posts tailored for various platforms. This auotomation significantly reduces manual effort, ensures consistency in content quality,
 and accelerates the content publishing cycle.
 Through its intuitive user interface and seamless integration with popular platforms,
 VidPromote empowers content creators and marketers to focus on creativity and
